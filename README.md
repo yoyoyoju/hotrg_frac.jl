@@ -1,7 +1,24 @@
-# hotrg_frac
 
-[![Build Status](https://travis-ci.org/yoyoyoju/hotrg_frac.jl.svg?branch=master)](https://travis-ci.org/yoyoyoju/hotrg_frac.jl)
+<a id='hotrg_frac-Documentation-1'></a>
 
-[![Coverage Status](https://coveralls.io/repos/yoyoyoju/hotrg_frac.jl/badge.svg?branch=master&service=github)](https://coveralls.io/github/yoyoyoju/hotrg_frac.jl?branch=master)
+# hotrg_frac Documentation
 
-[![codecov.io](http://codecov.io/github/yoyoyoju/hotrg_frac.jl/coverage.svg?branch=master)](http://codecov.io/github/yoyoyoju/hotrg_frac.jl?branch=master)
+- [hotrg_frac Documentation](index.md#hotrg_frac-Documentation-1)
+    - [Functions](index.md#Functions-1)
+    - [Index](index.md#Index-1)
+
+
+<a id='Functions-1'></a>
+
+## Functions
+
+
+
+
+
+
+<a id='Index-1'></a>
+
+## Index
+
+
